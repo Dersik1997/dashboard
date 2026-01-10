@@ -121,4 +121,4 @@ else:
 
 # Auto Refresh
 time.sleep(1)
-st.rerun()s
+st.rerun()
